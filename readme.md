@@ -16,4 +16,7 @@ git commit -m
 A commit, or "revision", is an individual change to a file (or set of files).  It is like when you save a file, except with Git, every time you save it creates a unique ID (a.k.a. the "SHA: Secure Hash Algorithm" or "hash") that allows you to keep record of what changes were made when and by who.  Commits usually contain a commit message which is a brief description of what changes were made.
 -m: This flag specifies a commit message.
 
+git log
+I see an entry for my "Add readme.md" commit.  Also, I see details on the author, before and after making my email private, when I made the commits.
+
 
